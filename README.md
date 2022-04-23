@@ -11,16 +11,16 @@ Follow this link to see the final product including the dApp built: https://wave
 
 Main files in this repo include:
 
-WavePortal.sol => the main smart contract code in solidity
-deploy.js => script to deploy the contract
-run.js => script to test transactions to the contract
+-WavePortal.sol => the main smart contract code in solidity
+-deploy.js => script to deploy the contract
+-run.js => script to test transactions to the contract
 
 This project uses the below languages and environments: 
 
-node.js
-hardhat
-javascript
-solidity
-css
-html
-react
+-node.js
+-hardhat
+-javascript
+-solidity
+-css
+-html
+-react
